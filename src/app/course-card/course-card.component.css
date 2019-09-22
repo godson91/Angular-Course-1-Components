@@ -1,0 +1,5 @@
+
+/* this css class is known as a state class */
+.course-card.beginner {
+    background-color: lightsalmon;
+}
